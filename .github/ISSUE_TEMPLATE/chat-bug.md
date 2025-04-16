@@ -3,7 +3,7 @@ name: "\U0001F4AC GPT4All Bug Report"
 about: A bug report for GPT4All Chat
 labels: ["chat", "bug-unconfirmed"]
 ---
-
+about: A bug report for GPT4All Chat updated
 <!-- Before creating a new issue, please make sure to take a few moments to check the issue tracker for existing issues about the bug. -->
 
 ### Bug Report
